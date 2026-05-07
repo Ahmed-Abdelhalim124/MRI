@@ -1,6 +1,11 @@
 # NeferMRI
 a deep learning-based MRI analysis system capable of detecting ACL and menis- cus tears in knee MRI scans, using the MRNet dataset from Stanford University as a primary source.
 
+
+
+# DEMO LINK : https://drive.google.com/file/d/1YxnY5S7qKDhhkzdvv0NCnwlHEJeUDQUG/view?usp=sharing
+
+
 PROJECT STRUCTURE
 
 project/
